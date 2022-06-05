@@ -1,1 +1,1 @@
-welcome page client
+welcome feature1 & feature2
